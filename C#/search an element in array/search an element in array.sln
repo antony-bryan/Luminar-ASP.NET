@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "search an element in array", "search an element in array.csproj", "{8FA8144C-3B7B-4463-864A-D0C8D7B575C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FA8144C-3B7B-4463-864A-D0C8D7B575C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA8144C-3B7B-4463-864A-D0C8D7B575C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA8144C-3B7B-4463-864A-D0C8D7B575C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA8144C-3B7B-4463-864A-D0C8D7B575C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BB8D191-5013-4D71-A379-A5F4DEE4C833}
+	EndGlobalSection
+EndGlobal

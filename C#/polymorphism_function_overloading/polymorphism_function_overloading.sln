@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polymorphism_function_overloading", "polymorphism_function_overloading.csproj", "{8F21886D-59E2-4946-8E37-FEDAB4EECB4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F21886D-59E2-4946-8E37-FEDAB4EECB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F21886D-59E2-4946-8E37-FEDAB4EECB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F21886D-59E2-4946-8E37-FEDAB4EECB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F21886D-59E2-4946-8E37-FEDAB4EECB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DE2B4EB-4497-4C10-B02A-A1B48EAF2E7A}
+	EndGlobalSection
+EndGlobal

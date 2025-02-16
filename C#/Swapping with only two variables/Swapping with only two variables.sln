@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swapping with only two variables", "Swapping with only two variables.csproj", "{F984E929-1F9B-4E15-9AE2-272037ECBB1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F984E929-1F9B-4E15-9AE2-272037ECBB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F984E929-1F9B-4E15-9AE2-272037ECBB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F984E929-1F9B-4E15-9AE2-272037ECBB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F984E929-1F9B-4E15-9AE2-272037ECBB1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54589D2A-011C-4573-8E2C-9D8759B4DF40}
+	EndGlobalSection
+EndGlobal
